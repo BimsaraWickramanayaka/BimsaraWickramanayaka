@@ -32,26 +32,32 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 
 ## 🛠️ Tech Stack  
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=nextdotjs)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)   
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=fff)  
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-F95353?style=for-the-badge&logo=laravel&logoColor=fff)
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
 
 **Tools & DevOps:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=fff)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=fff)
 
 ---
 
@@ -64,9 +70,14 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 
 ## 🚀 Projects  
 
-🔹 [**Project 1**](#) – Short description of project 1  
-🔹 [**Project 2**](#) – Short description of project 2  
-🔹 [**Project 3**](#) – Short description of project 3  
+🔹 [**AgriGift**](https://github.com/BimsaraWickramanayaka/AgriGift) – A platform for gifting agricultural products online, connecting farmers with customers.  
+
+🔹 [**Student Management System**](https://github.com/Sachindu-Nethmin/FOG-SM) – A collaborative system for managing student enrollment, timeline, and academic performance using Laravel Framework.  
+
+🔹 **Smart Agriculture Platform (Mobile App)**  
+&nbsp;&nbsp;&nbsp;&nbsp;📱 [Frontend](https://github.com/KavinduAluthwaththa/Capstone-Project-Frontend) – Built with Flutter for modern mobile experience.  
+&nbsp;&nbsp;&nbsp;&nbsp;⚙️ [Backend](https://github.com/KavinduAluthwaththa/Capstone-Project-Backend) – Powered by C#/.NET framework with robust APIs.  
+  
 
 ---
 
@@ -76,7 +87,11 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 ![Trophies](https://github-profile-trophy.vercel.app/?username=BimsaraWickramanayaka&theme=tokyonight&no-frame=true&margin-w=15)  
 
 ### Special GitHub Badges  
-[![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)](https://github.com/BimsaraWickramanayaka)  
+
+<a href="https://github.com/BimsaraWickramanayaka">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+</a>
+ 
 
 
 ---
