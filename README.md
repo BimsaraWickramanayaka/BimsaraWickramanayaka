@@ -75,6 +75,10 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 ![GitHub Streak](https://streak-stats.demolab.com?user=BimsaraWickramanayaka&theme=tokyonight)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=BimsaraWickramanayaka&theme=tokyonight&no-frame=true&margin-w=15)  
 
+### Special GitHub Badges  
+[![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)](https://github.com/BimsaraWickramanayaka)  
+
+
 ---
 
 ## 📫 Connect With Me  
