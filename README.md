@@ -91,6 +91,13 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 <a href="https://github.com/BimsaraWickramanayaka">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
 </a>
+<a href="https://github.com/BimsaraWickramanayaka">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" />
+</a>
+<a href="https://github.com/BimsaraWickramanayaka">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" />
+</a>
+
  
 
 
