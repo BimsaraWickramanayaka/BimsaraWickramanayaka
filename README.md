@@ -42,7 +42,6 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)
@@ -103,11 +102,11 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bimsara-wickramanayaka-7a8810266) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=fff)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:wickramanayakab@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/bimsara-wickramanayaka-7a8810266)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=fff)](https://react-tailwind-portfolio-two-peach.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:wickramanayakab@gmail.com)
 
 ---
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
