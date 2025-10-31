@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🚀 **Full Stack Developer | Open Source Enthusiast | Lifelong Learner**  
 
 I’m passionate about building scalable web applications, exploring cloud solutions, and contributing to open-source projects.  
-Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.  
+Currently focusing on **Full-stack development, DevOps practices, and AI/ML integrations**.  
 
 ---
 
@@ -71,12 +71,19 @@ Currently focusing on **MERN stack, DevOps practices, and AI/ML integrations**.
 
 🔹 [**AgriGift**](https://github.com/BimsaraWickramanayaka/AgriGift) – A platform for gifting agricultural products online, connecting farmers with customers.  
 
-🔹 [**Student Management System**](https://github.com/Sachindu-Nethmin/FOG-SM) – A collaborative system for managing student enrollment, timeline, and academic performance using Laravel Framework.  
+🔹 [**Student Management System**](https://github.com/Sachindu-Nethmin/FOG-SM) – A system for managing student enrollment, timeline, and academic performance using Laravel Framework.  
 
 🔹 **Smart Agriculture Platform (Mobile App)**  
 &nbsp;&nbsp;&nbsp;&nbsp;📱 [Frontend](https://github.com/KavinduAluthwaththa/Capstone-Project-Frontend) – Built with Flutter for modern mobile experience.  
 &nbsp;&nbsp;&nbsp;&nbsp;⚙️ [Backend](https://github.com/KavinduAluthwaththa/Capstone-Project-Backend) – Powered by C#/.NET framework with robust APIs.  
-  
+
+🔹 [**Thinkboard**](https://github.com/BimsaraWickramanayaka/mern-thinkboard) – A note-taking web application built using the MERN stack for organizing and managing ideas efficiently.  
+
+🔹 [**Solid Weddings**](https://github.com/Sachindu-Nethmin/solidweddings) – A professional photography website showcasing portfolio highlights and client galleries.  
+
+🔹 [**Movie Search App**](https://github.com/BimsaraWickramanayaka/Movie_search_app) – A full-stack platform enabling users to browse trending films and search for titles in real time.  
+
+🔹 [**Dockerized To-Do App**](https://github.com/BimsaraWickramanayaka/Dockerized-todo-app) – A Dockerized full-stack task management platform with user authentication and CRUD operations for personalized to-dos.  
 
 ---
 
